@@ -1,6 +1,9 @@
 # NHANES Inferential Analysis Project 
 For this assignment we were tasked with utilizing NHANES datasets to answer a series of questions. The analysis was to be concocted using python and R script for each one. Using data previews to find the needed columns required to answer the questions and data cleaning queries, inferential statistic tests were run. Below are the summaries and findings of the questions provided, as well as a link to the Google Colab notebook that holds all of the data. In addition to running and creating the codes we were tasked with coming up with the last question (question 5) ourselves using at least one variable and can be answered with either an ANOVA-test, t-test, Chi squared test, or correlation. 
 
+### Link to Google Colab notebook
+https://colab.research.google.com/drive/1BRS1orNzh2Y-MW1sQ-SbcHtVtficypEN?usp=sharing 
+
 ### Question 1 
 For Question 1, we analyzed NHANES data on marital status and educational attainment to determine whether there is a relationship between these two variables. The Chi-square test produced a Chi squared  value of 0 and a p-value of 1. A Chi squared value of 0 indicates that the observed frequencies in the data perfectly match the expected frequencies, meaning there is no difference from what would be expected by chance. Based on these results, we can conclude that marital status and education level are not associated in this dataset; in other words, an individual’s marital status does not appear to be related to their level of education.
 
